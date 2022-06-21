@@ -1,5 +1,9 @@
 # CS-230-Project
 
+Draw it or Lose it
+CS 230
+SNHU (Southern New Hampshire University)
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 The client was "The Gaming Room". The application that the company wanted to design was called "Draw It or Lose it". This application was a cross-platform application, capable of being played on varios operating systems. The game is a puzzle competition that shows users images so they can guess the correct phrase. 
