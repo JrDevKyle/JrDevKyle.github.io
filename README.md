@@ -1,7 +1,7 @@
 # 8-1 Journal: Portfolio Submission
 
 PLEASE REFER TO MY SUBMISSION "RUNTIME ANALYSIS.DOCX" AND MY "PROJECT2.ZIP" COMMITS TO FULIFLL THE REQUIREMENTS IN THE RUBRIC.
-
+Incase you would like to see my full document for project one, I committed that also.
 
 What was the problem you were solving in the projects for this course?
 
