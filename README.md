@@ -1,5 +1,8 @@
 # JrDevKyle.github.io
 
+Kyle Raja
+CS 305
+
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 The client was Artemis Financial. I was tasked to choose a algorithm cipher that would improve the companies financial data.
 
