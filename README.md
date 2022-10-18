@@ -1,5 +1,8 @@
 # JrDevKyle.github.io
 
+Kyle Raja
+CS 255
+
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The client was DriverPass who wanted to have a web-based application that would allow students to enroll in courses, exams, driving tests, and have the
 ability to schedule appointments. 
